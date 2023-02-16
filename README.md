@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science, AI/ML, Embedded system and Healthtech**
 
-- 📫 How to reach me **bashswags01@gmail.com**
+- 📫 How to reach me **bashirudeenopeyemi772@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/boibash/](https://www.linkedin.com/in/boibash/)
 
