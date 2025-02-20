@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bashirudeen Opeyemi Ibrahim</h1>
-<h3 align="center">I am a Data scientist, AI/ML Engineer and an Embedded System Engineer skilled with using Arduino. I am also a Pharmacist-in-training that is passionate about healthtech and its application to transforming healthcare delivery</h3>
+<h3 align="center">I am a Data Scientist, AI/ML Engineer and an Embedded System Engineer skilled with using Arduino. I am also a Pharmacist-in-training that is passionate about healthtech and its application to transforming healthcare delivery</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
