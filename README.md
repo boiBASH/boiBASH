@@ -15,7 +15,6 @@
 ---
 
 ### 🚀 About Me
-- 📌 **Data Science Specialist @ Amadri**
 - 💡 Passionate about **AI/ML**, **LLMs & AI Agents**, **Geospatial Analytics**, and **HealthTech Innovations**
 - 🤖 Researching and developing **Large Language Models (LLMs)** for **low-resource languages**
 - 🏥 Building **AI-driven healthcare solutions** (Causal AI, NLP, Predictive Analytics)
